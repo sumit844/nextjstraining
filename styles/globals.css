@@ -1,0 +1,13 @@
+a{
+    color:white !important;
+    text-decoration: none;
+}
+
+a:hover{
+    color:black !important;
+}
+
+button:hover{
+    background-color: black !important;
+    border: black;
+}
